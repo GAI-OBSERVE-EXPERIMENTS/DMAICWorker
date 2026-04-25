@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.env
+.env.*
+*.db
+*.sqlite3
+.venv/
+venv/
+temp_*/
+*.zip
+*.docx
+antigravity-ide/
+nexus-agentic-hub.zip
